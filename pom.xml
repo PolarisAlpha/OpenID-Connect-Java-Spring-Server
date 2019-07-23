@@ -48,7 +48,8 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/PolarisAlpha/OpenID-Connect-Java-Spring-Server.git</connection>
-		<developerConnection>scm:git:git@github.com:PolarisAlpha/OpenID-Connect-Java-Spring-Server.git</developerConnection>
+		<!-- <developerConnection>scm:git:git@github.com:PolarisAlpha/OpenID-Connect-Java-Spring-Server.git</developerConnection> -->
+		<developerConnection>scm:git:https://github.com/PolarisAlpha/OpenID-Connect-Java-Spring-Server.git</developerConnection>
 		<url>https://github.com/PolarisAlpha/OpenID-Connect-Java-Spring-Server.git</url>
 		<tag>HEAD</tag>
 	</scm>
